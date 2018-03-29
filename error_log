@@ -1,0 +1,29 @@
+[10-Sep-2017 11:34:17 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '=' in /home/calliarc/public_html/works/wineshop/application/config/database.php on line 51
+[11-Sep-2017 14:26:12 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/calliarc/public_html/works/wineshop/application/controllers/sales_controller.php on line 151
+[11-Sep-2017 14:55:52 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Stock_model::search_text() in /home/calliarc/public_html/works/wineshop/application/models/stock_model.php on line 233
+[11-Sep-2017 16:18:13 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$searchtext' (T_VARIABLE) in /home/calliarc/public_html/works/wineshop/application/models/sales_model.php on line 134
+[12-Sep-2017 06:46:56 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '', u.last_name) as full_name f' (T_CONSTANT_ENCAPSED_STRING) in /home/calliarc/public_html/works/wineshop/application/models/brand_model.php on line 35
+[12-Sep-2017 12:46:13 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '%' in /home/calliarc/public_html/works/wineshop/application/models/brand_model.php on line 85
+[12-Sep-2017 12:46:15 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '%' in /home/calliarc/public_html/works/wineshop/application/models/brand_model.php on line 85
+[12-Sep-2017 14:18:04 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/calliarc/public_html/works/wineshop/application/models/sales_model.php on line 138
+[12-Sep-2017 14:18:29 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/calliarc/public_html/works/wineshop/application/models/sales_model.php on line 138
+[12-Sep-2017 14:18:49 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/calliarc/public_html/works/wineshop/application/models/sales_model.php on line 138
+[12-Sep-2017 14:19:21 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/calliarc/public_html/works/wineshop/application/models/sales_model.php on line 138
+[12-Sep-2017 14:19:25 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/calliarc/public_html/works/wineshop/application/models/sales_model.php on line 138
+[12-Sep-2017 14:19:34 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/calliarc/public_html/works/wineshop/application/models/sales_model.php on line 138
+[12-Sep-2017 15:28:47 Asia/Kolkata] PHP Fatal error:  Call to undefined method Stock_model::sales_list() in /home/calliarc/public_html/works/wineshop/application/controllers/sales_controller.php on line 115
+[12-Sep-2017 15:30:08 Asia/Kolkata] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/calliarc/public_html/works/wineshop/application/models/sales_model.php on line 51
+[12-Sep-2017 15:31:28 Asia/Kolkata] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/calliarc/public_html/works/wineshop/application/models/sales_model.php on line 51
+[12-Sep-2017 15:32:51 Asia/Kolkata] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/calliarc/public_html/works/wineshop/application/models/sales_model.php on line 51
+[12-Sep-2017 15:32:53 Asia/Kolkata] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/calliarc/public_html/works/wineshop/application/models/sales_model.php on line 51
+[12-Sep-2017 15:33:13 Asia/Kolkata] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/calliarc/public_html/works/wineshop/application/models/sales_model.php on line 51
+[12-Sep-2017 15:33:15 Asia/Kolkata] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/calliarc/public_html/works/wineshop/application/models/sales_model.php on line 51
+[12-Sep-2017 15:33:18 Asia/Kolkata] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/calliarc/public_html/works/wineshop/application/models/sales_model.php on line 51
+[12-Sep-2017 15:40:59 Asia/Kolkata] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/calliarc/public_html/works/wineshop/application/models/sales_model.php on line 51
+[12-Sep-2017 15:41:02 Asia/Kolkata] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/calliarc/public_html/works/wineshop/application/models/sales_model.php on line 51
+[12-Sep-2017 15:48:20 Asia/Kolkata] PHP Fatal error:  Call to undefined method Stock_model::sales_list() in /home/calliarc/public_html/works/wineshop/application/controllers/sales_controller.php on line 115
+[12-Sep-2017 15:49:15 Asia/Kolkata] PHP Fatal error:  Call to undefined method Stock_model::sales_list() in /home/calliarc/public_html/works/wineshop/application/controllers/sales_controller.php on line 115
+[12-Sep-2017 15:49:17 Asia/Kolkata] PHP Fatal error:  Call to undefined method Stock_model::sales_list() in /home/calliarc/public_html/works/wineshop/application/controllers/sales_controller.php on line 115
+[12-Sep-2017 16:52:41 Asia/Kolkata] PHP Fatal error:  Class 'BaseController' not found in /home/calliarc/public_html/works/wineshop/application/controllers/report_controller.php on line 3
+[12-Sep-2017 17:00:14 Asia/Kolkata] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/calliarc/public_html/works/wineshop/application/models/sales_model.php on line 49
+[13-Sep-2017 11:08:44 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/calliarc/public_html/works/wineshop/application/controllers/users.php on line 217
